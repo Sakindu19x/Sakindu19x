@@ -1,4 +1,5 @@
-<img src="https://github.com/Sakindu19x/Sakindu19x/blob/main/Github.png" alt="SAKINDU19x Banner" width="1584" height="396">
+<img src="https://github.com/Sakindu19x/Sakindu19x/blob/main/Github.png" alt="SAKINDU19x Banner" style="width:100%; max-width:1584px; height:auto;">
+
 
 #  Welcome, Cyber Adventurer! 👾  
 ##  Hello, I'm Sakindu Niman – Defender of the Digital Realm! 👋
