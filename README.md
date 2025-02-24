@@ -1,3 +1,5 @@
+<img src="https://github.com/Sakindu19x/Sakindu19x/blob/main/Github.png" alt="SAKINDU19x Banner" width="1584" height="396">
+
 #  Welcome, Cyber Adventurer! 👾  
 ##  Hello, I'm Sakindu Niman – Defender of the Digital Realm! 👋
 <br>
@@ -42,6 +44,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%2300ADD8.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%230067B8.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Bandit](https://img.shields.io/badge/Bandit-%23FFD700.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000.svg?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) 
@@ -52,6 +60,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Filmora](https://img.shields.io/badge/Filmora-%2300B9F2.svg?style=for-the-badge&logo=wondersharefilmora&logoColor=white)
 
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) 
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) 
@@ -63,6 +72,7 @@
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[![Credly](https://img.shields.io/badge/Credly-%23006DAF.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/sakindu-niman)
 
 ---
 
