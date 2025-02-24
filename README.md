@@ -9,8 +9,8 @@
 🧑‍🤝‍🧑 Collaborating on: CTFs & security research.<br>
 🤝 Looking for: A cybersecurity internship.<br>
 🌱 Exploring: Digital forensics & network security.<br>
-💬 Ask me about: Cybersecurity & debating.<br>
-⚡ Fun fact: Former debate captain turned cyber geek!
+💬 Ask me about: Cybersecurity & Hacking.<br>
+⚡ Fun fact: Turning problems into solutions, one line of code at a time!
 
 ---
 
